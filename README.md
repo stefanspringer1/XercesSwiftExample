@@ -13,3 +13,7 @@ Undefined symbol: xercesc_3_2::XMLFormatter::formatBuf(char16_t const*, unsigned
 Note that there is the corresponding Xcode (not Swift Package Manager) project [XercesSwiftXcode](https://github.com/stefanspringer1/XercesSwiftXcode) where this works with the dynamic library integrated into the project (the `libxerces-c-3.2.dylib` inside that project is for macOS on Intel and is to be replaced by the one for macOS on ARM from [XercesBuild](https://github.com/stefanspringer1/XercesBuild)).
 
 Of course, any help is welcome!
+
+---
+
+Legal notice: Using any of the included material is at your own risk.
