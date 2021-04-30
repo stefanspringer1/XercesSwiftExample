@@ -1,6 +1,6 @@
 # XercesSwiftExample
 
-This Swift package tries to use [XercesSwift](https://github.com/stefanspringer1/XercesSwift), using Xerces-C++ as a SAX parser in Swift.
+This Swift package is trying to use [XercesSwift](https://github.com/stefanspringer1/XercesSwift), using Xerces-C++ as a SAX parser in Swift.
 
 Sadly, this does not function yet, there are errors of the following type:
 
