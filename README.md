@@ -16,4 +16,4 @@ Of course, any help is welcome!
 
 ---
 
-Legal notice: Using any of the included material is at your own risk.
+Legal notice: Usage of any of the included material is to your own risk.
