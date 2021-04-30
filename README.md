@@ -1,4 +1,4 @@
-# XercesSwiftExample
+# XercesSwiftExample: using the bindings of Xerces+C++ to Swift
 
 This Swift package is trying to use [XercesSwift](https://github.com/stefanspringer1/XercesSwift), using Xerces-C++ as a SAX parser in Swift.
 
